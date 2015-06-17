@@ -23,7 +23,7 @@
 {
 
   [[CCDirector sharedDirector] replaceScene:[CCBReader loadAsScene:@"MainScene"] ];
-    NSLog(@"hola mundo" );
+ 
 }
 -(void)shareButton
 {
