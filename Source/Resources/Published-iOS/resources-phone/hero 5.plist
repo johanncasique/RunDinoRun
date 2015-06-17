@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>hero 5/hero 5_00001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{187, 418}, {184, 229}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {184, 229}}</string>
+			<key>sourceSize</key>
+			<string>{184, 229}</string>
+		</dict>
+		<key>hero 5/hero 5_00003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{604, 373}, {184, 229}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {184, 229}}</string>
+			<key>sourceSize</key>
+			<string>{184, 229}</string>
+		</dict>
+		<key>hero 5/hero 5_00008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 694}, {184, 229}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {184, 229}}</string>
+			<key>sourceSize</key>
+			<string>{184, 229}</string>
+		</dict>
+		<key>hero 5/hero 5_00010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{835, 418}, {184, 229}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {184, 229}}</string>
+			<key>sourceSize</key>
+			<string>{184, 229}</string>
+		</dict>
+		<key>hero 5/hero 5_00015.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{187, 1}, {184, 229}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {184, 229}}</string>
+			<key>sourceSize</key>
+			<string>{184, 229}</string>
+		</dict>
+		<key>hero 5/hero 5_00017.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{187, 649}, {184, 229}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {184, 229}}</string>
+			<key>sourceSize</key>
+			<string>{184, 229}</string>
+		</dict>
+		<key>hero 5/hero 5_00019.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{373, 649}, {184, 229}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {184, 229}}</string>
+			<key>sourceSize</key>
+			<string>{184, 229}</string>
+		</dict>
+		<key>hero 5/hero 5_00022.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 463}, {184, 229}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {184, 229}}</string>
+			<key>sourceSize</key>
+			<string>{184, 229}</string>
+		</dict>
+		<key>hero 5/hero 5_00024.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{373, 187}, {184, 229}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {184, 229}}</string>
+			<key>sourceSize</key>
+			<string>{184, 229}</string>
+		</dict>
+		<key>hero 5/hero 5_00026.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{559, 559}, {184, 229}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {184, 229}}</string>
+			<key>sourceSize</key>
+			<string>{184, 229}</string>
+		</dict>
+		<key>hero 5/hero 5_00031.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{604, 187}, {184, 229}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {184, 229}}</string>
+			<key>sourceSize</key>
+			<string>{184, 229}</string>
+		</dict>
+		<key>hero 5/hero 5_00033.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{790, 649}, {184, 229}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {184, 229}}</string>
+			<key>sourceSize</key>
+			<string>{184, 229}</string>
+		</dict>
+		<key>hero 5/hero 5_00036.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {184, 229}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {184, 229}}</string>
+			<key>sourceSize</key>
+			<string>{184, 229}</string>
+		</dict>
+		<key>hero 5/hero 5_00038.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{418, 1}, {184, 229}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {184, 229}}</string>
+			<key>sourceSize</key>
+			<string>{184, 229}</string>
+		</dict>
+		<key>hero 5/hero 5_00040.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{559, 745}, {184, 229}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {184, 229}}</string>
+			<key>sourceSize</key>
+			<string>{184, 229}</string>
+		</dict>
+		<key>hero 5/hero 5_00043.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 232}, {184, 229}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {184, 229}}</string>
+			<key>sourceSize</key>
+			<string>{184, 229}</string>
+		</dict>
+		<key>hero 5/hero 5_00045.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{649, 1}, {184, 229}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {184, 229}}</string>
+			<key>sourceSize</key>
+			<string>{184, 229}</string>
+		</dict>
+		<key>hero 5/hero 5_00047.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{835, 187}, {184, 229}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {184, 229}}</string>
+			<key>sourceSize</key>
+			<string>{184, 229}</string>
+		</dict>
+		<key>hero 5/hero 5_00049.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{790, 835}, {184, 229}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {184, 229}}</string>
+			<key>sourceSize</key>
+			<string>{184, 229}</string>
+		</dict>
+		<key>hero 5/hero 5_00052.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{187, 187}, {184, 229}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {184, 229}}</string>
+			<key>sourceSize</key>
+			<string>{184, 229}</string>
+		</dict>
+		<key>hero 5/hero 5_00054.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{373, 373}, {184, 229}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {184, 229}}</string>
+			<key>sourceSize</key>
+			<string>{184, 229}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{2048, 1024}</string>
+		<key>textureFileName</key>
+		<string>hero 5.png</string>
+	</dict>
+</dict>
+</plist>
